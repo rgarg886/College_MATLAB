@@ -1,0 +1,4 @@
+% write program to find solution for ax^3 + bx^2 + cx + d%
+
+var = [ 'a' , 'b' , 'c' , 'd' ];
+
